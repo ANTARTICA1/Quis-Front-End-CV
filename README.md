@@ -6,6 +6,11 @@ A multi-page responsive personal curriculum vitae and professional profile websi
 
 Designed for clarity and semantic readability, this web CV organizes academic and technical credentials into structured sections. The user interface adheres to modern responsive design standards, ensuring fluid presentation across smartphones, tablets, and desktop workstations.
 
+
+## Interface Preview
+
+[![Interface Preview Status](https://img.shields.io/badge/Interface_Preview-Documentation_in_Progress-0284c7?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/ANTARTICA1/Quis-Front-End-CV)
+
 ## Site Structure
 
 - Home (`index.html`): High-level executive summary, professional portrait, and quick navigation.
